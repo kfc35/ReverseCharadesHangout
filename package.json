@@ -1,0 +1,15 @@
+{
+    "name": "reverse-charades",
+    "version" : "0.0.01",
+    "dependencies": {
+        "express": " 3.x"
+    },
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/kfc35/ReverseCharadesHangout.git"
+    },
+    "engines": {
+        "node": "0.10.x",
+        "npm": "1.3.x"
+    }
+}
